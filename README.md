@@ -1,6 +1,4 @@
-# MediMind AI — Production Medical Assistant
-
-MediMind AI is a production-grade AI Medical Assistant built with React, FastAPI, Nginx, Redis, PostgreSQL, and standalone ChromaDB, powered by Gemini 2.5 Flash.
+# CliniVerse Care AI — Production Medical Assistant
 
 ## Features
 - **Gemini 2.5 Flash Integration**: Rapid generation and response streaming.
